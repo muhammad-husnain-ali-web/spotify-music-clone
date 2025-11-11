@@ -59,5 +59,5 @@ spotify-music-clone/
 ---
 
 ## 🖼️ Screenshots
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
